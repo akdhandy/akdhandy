@@ -3,13 +3,13 @@
 
 
 <p align="center">
-  <a href="mailto: pradeepg@terpmail.umd.edu">
-  <img src="https://github.com/Pradeep-Gopal/Pradeep-Gopal/blob/main/gmail2.png", style="border:0px;margin:0px;float:right" height = "100" width="100"/>
+  <a href="mailto:akdhandy@terpmail.umd.edu">
+  <img src="https://github.com/akdhandy/akdhandy/blob/main/Gmail-new-logo.jpg", style="border:0px;margin:0px;float:right" height = "100" width="100"/>
   </a>
 
 
   <a href="https://www.linkedin.com/in/arunkumar1998/">
-  <img src="https://github.com/Pradeep-Gopal/Pradeep-Gopal/blob/main/linkedin2.png" style=”float:right” height = "110" width="110" />
+  <img src="https://github.com/akdhandy/akdhandy/blob/main/linkedin.png" style=”float:right” height = "110" width="110" />
   </a>
 </p>
 
