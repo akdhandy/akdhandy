@@ -17,7 +17,7 @@ I enjoy solving complex problems by breaking them down into smaller ones. Lookin
 
 - 🔭 I’m currently working on Sensor networks for wearables and Simulation of an Manufacturing Autonomous system !
 - 🌱 I’m currently learning Eagle AutoCAD for custom PCB design
-- Researh Interests : Computer Vision and Sensor Networks
+- Research Interests : Computer Vision and Sensor Networks
 - 📫 How to reach me: akdhandy@terpmail.umd.edu
 - ⚡ Fun fact: I love gaming and working on different kinds of sensors
 
