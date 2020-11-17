@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:akdhandy@terpmail.umd.edu">
-  <img src="https://github.com/akdhandy/akdhandy/blob/main/Gmail-new-logo.jpg", style="border:0px;margin:0px;float:right" height = "100" width="100"/>
+  <img src="https://github.com/akdhandy/akdhandy/blob/main/Gmail-new-logo.jpg", style="border:0px;margin:0px;float:right" height = "100" width="120"/>
   </a>
 
 
