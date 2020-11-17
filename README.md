@@ -9,7 +9,7 @@
 
 
   <a href="https://www.linkedin.com/in/arunkumar1998/">
-  <img src="https://github.com/akdhandy/akdhandy/blob/main/linkedin.png" style=”float:right” height = "90" width="90" />
+  <img src="https://github.com/akdhandy/akdhandy/blob/main/iconfinder_SocialMedia_LinkedIn-Outline_2959747.png" style=”float:right” height = "100" width="90" />
   </a>
 </p>
 
