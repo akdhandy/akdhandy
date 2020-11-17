@@ -9,7 +9,7 @@
 
 
   <a href="https://www.linkedin.com/in/arunkumar1998/">
-  <img src="https://github.com/akdhandy/akdhandy/blob/main/linkedin.png" style=”float:right” height = "90" width="90" />
+  <img src="https://github.com/akdhandy/akdhandy/blob/main/linkedin.png" style=”float:right” height = "90" width="90" />Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
   </a>
 </p>
 
