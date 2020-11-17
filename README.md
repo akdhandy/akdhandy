@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+
+
+<p align="center">
+  <a href="mailto: pradeepg@terpmail.umd.edu">
+  <img src="https://github.com/Pradeep-Gopal/Pradeep-Gopal/blob/main/gmail2.png", style="border:0px;margin:0px;float:right" height = "100" width="100"/>
+  </a>
+
+
+  <a href="https://www.linkedin.com/in/arunkumar1998/">
+  <img src="https://github.com/Pradeep-Gopal/Pradeep-Gopal/blob/main/linkedin2.png" style=”float:right” height = "110" width="110" />
+  </a>
+</p>
+
 I enjoy solving complex problems by breaking them down into smaller ones. Looking forward to contribute on AI for robotics and quench my thirst for knowledge in a dynamic work culture environment open to adapt to changes leading to success.
 
 - 🔭 I’m currently working on Sensor networks for wearables and Simulation of an Manufacturing Autonomous system !
