@@ -16,7 +16,6 @@
 I enjoy solving complex problems by breaking them down into smaller ones. Looking forward to contribute on AI for robotics and quench my thirst for knowledge in a dynamic work culture environment open to improvise and adapt to changes.
 
 - 🔭 I’m currently working on Agriculture Robots !
-- 🌱 I’m currently learning Solidworks for custom Quadruped design
 - Research Interests : Mechatronics,Computer Vision and Sensor Networks
 - 📫 How to reach me: akdhandy@terpmail.umd.edu
 - ⚡ Fun fact: I love gaming and working on different kinds of sensors
